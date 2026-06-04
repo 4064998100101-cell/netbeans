@@ -18,7 +18,6 @@ public class Ejerciciodeprueba {
       {
           System.out.println("");
       }
-      int a;
       int mitad=N/2;
       for (int i=0; i<N ;i++ )
       {
