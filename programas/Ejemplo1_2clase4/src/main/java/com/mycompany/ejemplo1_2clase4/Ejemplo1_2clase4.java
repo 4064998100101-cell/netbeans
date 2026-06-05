@@ -1,19 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.ejemplo1_2clase4;
 import java.util.Scanner;
 
-/**
- *
- * @author 5toco
- */
 public class Ejemplo1_2clase4 {
 
     public static void main(String[] args) {
       Scanner leer=new Scanner(System.in);
-int n;
+      int n;
       long numeropar=5;
       long numeroimpar=3; 
 
