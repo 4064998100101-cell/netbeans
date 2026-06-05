@@ -18,7 +18,6 @@ public class Ejerciciodeprueba {
       {
           System.out.println("");
       }
-      int a;
       int mitad=N/2;
       for (int i=0; i<N ;i++ )
       {
@@ -36,7 +35,7 @@ public class Ejerciciodeprueba {
       {
 
           asteriscos = 2 * (N - i) - 1; 
-          espacios = i - mitad;         
+          espacios = i-mitad;         
               
       } 
       //ahora vamos a imprimir los espacios a la izquierda
@@ -45,6 +44,7 @@ public class Ejerciciodeprueba {
       {
       System.out.print(" ");
       }
+      // espacios por asterisco
       for (int k=0; k<espacios; k++)
       
       {
